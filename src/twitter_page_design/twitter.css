@@ -1,0 +1,30 @@
+.profileImage {
+    border: 5px solid #fff;
+    margin-top: -88px;
+    margin-left: 46px;
+}
+.profileMenuDetails {
+    margin-top: 30px;
+    margin-left: 54px;
+}
+.profilePhotos {
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.profilePhotos > p {
+    color: blue;
+}
+.list-inline-item {
+    text-align:center;
+    padding: 10px;
+}
+.header-margin {
+    margin: 10px !important;
+}
+.list-inline-item:hover {
+    border-bottom: 5px solid red;
+    background-color: #dee2e6;
+}
+.list-inline-item>a {
+    text-decoration: none;
+}
